@@ -1,6 +1,7 @@
 {
-    "name": "TrickyAbhi-Bot",
-    "description": "Telegram group management bot.",
+    "name": "Agunivers bot",
+    "logo" : "https://telegra.ph/file/925b8e0781e4cacc042d9.jpg"
+    "description": "Telegram group management bot poweref by Agunivers.",
     "keywords": [
        "telegram",
        "anime",
@@ -8,7 +9,7 @@
        "manager",
        "yone"
     ],   
- "repository": "https://github.com/SJMxADITI/TrickyAbhi-Bot",
+ "repository": "https://github.com/Agunivers/tele",
  "addons": [
     {
        "options": {
